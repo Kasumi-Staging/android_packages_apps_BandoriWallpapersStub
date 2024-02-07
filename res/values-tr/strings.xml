@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2023 PixelBuildsRom
+     Copyright (C) 2024 Project Kasumi
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">Bandori Duvar Kağıtları (Project Kasumi\'den)</string>
+    <string name="pb_walls">Bandori</string>
+    <string name="author_1">imouto1308 tarafından</string>
+    <string name="wallpaper_with_aya">"Maruyama Aya İle"</string>
+    <string name="wallpaper_with_kasumi">"Toyama Kasumi İle"</string>
+    <string name="wallpaper_with_kokoro">"Tsurumaki Kokoro İle"</string>
+    <string name="wallpaper_with_layer">"LAYER İle"</string>
+    <string name="wallpaper_with_mashiro">"Kurata Mashiro İle"</string>
+    <string name="wallpaper_with_ran">"Mitake Ran İle"</string>
+    <string name="wallpaper_with_tomori">"Takamatsu Tomori İle"</string>
+    <string name="wallpaper_with_yukina">"Minato Yukina İle"</string>
+    <string name="wallpaper_with_all">"Tüm Karakterler İle"</string>
+    <string name="wallpaper_with_aya_dark">"Maruyama Aya İle (Karanlık)"</string>
+    <string name="wallpaper_with_kasumi_dark">"Toyama Kasumi İle (Karanlık)"</string>
+    <string name="wallpaper_with_kokoro_dark">"Tsurumaki Kokoro İle (Karanlık)"</string>
+    <string name="wallpaper_with_layer_dark">"LAYER İle (Karanlık)"</string>
+    <string name="wallpaper_with_mashiro_dark">"Kurata Mashiro İle (Karanlık)"</string>
+    <string name="wallpaper_with_ran_dark">"Mitake Ran İle (Karanlık)"</string>
+    <string name="wallpaper_with_tomori_dark">"Takamatsu Tomori İle (Karanlık)"</string>
+    <string name="wallpaper_with_yukina_dark">"Minato Yukina İle (Karanlık)"</string>
+    <string name="wallpaper_with_all_dark">"Tüm Karakterler İle (Karanlık)"</string>
+</resources>

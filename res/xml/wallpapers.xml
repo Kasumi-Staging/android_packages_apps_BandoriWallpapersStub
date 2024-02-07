@@ -1,0 +1,130 @@
+<!-- Copyright (C) 2023 PixelBuildsRom
+     Copyright (C) 2024 Project Kasumi
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <category id="bandori" title="@string/bandori_walls" featured="with_aya">
+
+        <static-wallpaper
+            id="with_aya"
+            src="@drawable/with_aya"
+            title="@string/wallpaper_with_aya"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="with_kasumi"
+            src="@drawable/with_kasumi"
+            title="@string/wallpaper_with_kasumi"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="with_kokoro"
+            src="@drawable/with_kokoro"
+            title="@string/wallpaper_with_kokoro"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="with_layer"
+            src="@drawable/with_layer"
+            title="@string/wallpaper_with_layer"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="with_mashiro"
+            src="@drawable/with_mashiro"
+            title="@string/wallpaper_with_mashiro"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="with_ran"
+            src="@drawable/with_ran"
+            title="@string/wallpaper_with_ran"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="with_tomori"
+            src="@drawable/with_tomori"
+            title="@string/wallpaper_with_tomori"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="with_ran"
+            src="@drawable/with_ran"
+            title="@string/wallpaper_with_ran"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="with_all"
+            src="@drawable/with_all"
+            title="@string/wallpaper_with_all"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="with_aya_dark"
+            src="@drawable/with_aya_dark"
+            title="@string/wallpaper_with_aya_dark"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="with_kasumi_dark"
+            src="@drawable/with_kasumi_dark"
+            title="@string/wallpaper_with_kasumi_dark"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="with_kokoro_dark"
+            src="@drawable/with_kokoro_dark"
+            title="@string/wallpaper_with_kokoro_dark"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="with_layer_dark"
+            src="@drawable/with_layer_dark"
+            title="@string/wallpaper_with_layer_dark"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="with_mashiro_dark"
+            src="@drawable/with_mashiro_dark"
+            title="@string/wallpaper_with_mashiro_dark"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="with_ran_dark"
+            src="@drawable/with_ran_dark"
+            title="@string/wallpaper_with_ran_dark"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="with_tomori_dark"
+            src="@drawable/with_tomori_dark"
+            title="@string/wallpaper_with_tomori_dark"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="with_ran_dark"
+            src="@drawable/with_ran_dark"
+            title="@string/wallpaper_with_ran_dark"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="with_all_dark"
+            src="@drawable/with_all_dark"
+            title="@string/wallpaper_with_all_dark"
+            subtitle1="@string/author_1" />
+
+    </category>
+
+</resources>

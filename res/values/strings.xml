@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2023 PixelBuildsRom
+     Copyright (C) 2024 Project Kasumi
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <!-- App name to appear - Shown in the app list -->
+    <string name="app_name">Bandori Wallpapers Stub (from Project Kasumi)</string>
+
+    <!-- Name of the section in Wallpaper & Style that will contain our wallpapers -->
+    <string name="bandori_walls">Bandori</string>
+    
+    <!-- Wallpapers by imouto1308 -->
+    <string name="author_1">by imouto1308</string>
+
+    <!-- Light variants -->
+    <string name="wallpaper_with_aya">With Maruyama Aya</string>
+    <string name="wallpaper_with_kasumi">With Toyama Kasumi</string>
+    <string name="wallpaper_with_kokoro">With Tsurumaki Kokoro</string>
+    <string name="wallpaper_with_layer">With LAYER</string>
+    <string name="wallpaper_with_mashiro">With Kurata Mashiro</string>
+    <string name="wallpaper_with_ran">With Mitake Ran</string>
+    <string name="wallpaper_with_tomori">With Takamatsu Tomori</string>
+    <string name="wallpaper_with_yukina">With Minato Yukina</string>
+    <string name="wallpaper_with_all">With All Characters</string>
+
+    <!-- Dark variants -->
+    <string name="wallpaper_with_aya_dark">With Maruyama Aya (Dark)</string>
+    <string name="wallpaper_with_kasumi_dark">With Toyama Kasumi (Dark)</string>
+    <string name="wallpaper_with_kokoro_dark">With Tsurumaki Kokoro (Dark)</string>
+    <string name="wallpaper_with_layer_dark">With LAYER (Dark)</string>
+    <string name="wallpaper_with_mashiro_dark">With Kurata Mashiro (Dark)</string>
+    <string name="wallpaper_with_ran_dark">With Mitake Ran (Dark)</string>
+    <string name="wallpaper_with_tomori_dark">With Takamatsu Tomori (Dark)</string>
+    <string name="wallpaper_with_yukina_dark">With Minato Yukina (Dark)</string>
+    <string name="wallpaper_with_all_dark">With All Characters (Dark)</string>
+
+</resources>
