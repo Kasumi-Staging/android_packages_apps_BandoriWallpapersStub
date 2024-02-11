@@ -20,110 +20,92 @@
         <static-wallpaper
             id="with_aya"
             src="@drawable/with_aya"
-            title="@string/wallpaper_with_aya"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_aya" />
 
         <static-wallpaper
             id="with_kasumi"
             src="@drawable/with_kasumi"
-            title="@string/wallpaper_with_kasumi"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_kasumi" />
 
         <static-wallpaper
             id="with_kokoro"
             src="@drawable/with_kokoro"
-            title="@string/wallpaper_with_kokoro"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_kokoro" />
 
         <static-wallpaper
             id="with_layer"
             src="@drawable/with_layer"
-            title="@string/wallpaper_with_layer"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_layer" />
 
         <static-wallpaper
             id="with_mashiro"
             src="@drawable/with_mashiro"
-            title="@string/wallpaper_with_mashiro"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_mashiro" />
 
         <static-wallpaper
             id="with_ran"
             src="@drawable/with_ran"
-            title="@string/wallpaper_with_ran"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_ran" />
 
         <static-wallpaper
             id="with_tomori"
             src="@drawable/with_tomori"
-            title="@string/wallpaper_with_tomori"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_tomori" />
 
         <static-wallpaper
             id="with_ran"
             src="@drawable/with_ran"
-            title="@string/wallpaper_with_ran"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_ran" />
 
         <static-wallpaper
             id="with_all"
             src="@drawable/with_all"
-            title="@string/wallpaper_with_all"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_all" />
 
         <static-wallpaper
             id="with_aya_dark"
             src="@drawable/with_aya_dark"
-            title="@string/wallpaper_with_aya_dark"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_aya_dark" />
 
         <static-wallpaper
             id="with_kasumi_dark"
             src="@drawable/with_kasumi_dark"
-            title="@string/wallpaper_with_kasumi_dark"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_kasumi_dark" />
 
         <static-wallpaper
             id="with_kokoro_dark"
             src="@drawable/with_kokoro_dark"
-            title="@string/wallpaper_with_kokoro_dark"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_kokoro_dark" />
 
         <static-wallpaper
             id="with_layer_dark"
             src="@drawable/with_layer_dark"
-            title="@string/wallpaper_with_layer_dark"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_layer_dark" />
 
         <static-wallpaper
             id="with_mashiro_dark"
             src="@drawable/with_mashiro_dark"
-            title="@string/wallpaper_with_mashiro_dark"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_mashiro_dark" />
 
         <static-wallpaper
             id="with_ran_dark"
             src="@drawable/with_ran_dark"
-            title="@string/wallpaper_with_ran_dark"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_ran_dark" />
 
         <static-wallpaper
             id="with_tomori_dark"
             src="@drawable/with_tomori_dark"
-            title="@string/wallpaper_with_tomori_dark"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_tomori_dark" />
 
         <static-wallpaper
             id="with_ran_dark"
             src="@drawable/with_ran_dark"
-            title="@string/wallpaper_with_ran_dark"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_ran_dark" />
 
         <static-wallpaper
             id="with_all_dark"
             src="@drawable/with_all_dark"
-            title="@string/wallpaper_with_all_dark"
-            subtitle1="@string/author_1" />
+            title="@string/wallpaper_with_all_dark" />
 
     </category>
 

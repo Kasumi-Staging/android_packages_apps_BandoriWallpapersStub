@@ -22,9 +22,6 @@
     <!-- Name of the section in Wallpaper & Style that will contain our wallpapers -->
     <string name="bandori_walls">Bandori</string>
     
-    <!-- Wallpapers by imouto1308 -->
-    <string name="author_1">by imouto1308</string>
-
     <!-- Light variants -->
     <string name="wallpaper_with_aya">With Maruyama Aya</string>
     <string name="wallpaper_with_kasumi">With Toyama Kasumi</string>
