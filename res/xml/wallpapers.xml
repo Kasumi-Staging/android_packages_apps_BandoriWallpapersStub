@@ -53,9 +53,9 @@
             title="@string/wallpaper_with_tomori" />
 
         <static-wallpaper
-            id="with_ran"
-            src="@drawable/with_ran"
-            title="@string/wallpaper_with_ran" />
+            id="with_yukina"
+            src="@drawable/with_yukina"
+            title="@string/wallpaper_with_yukina" />
 
         <static-wallpaper
             id="with_all"
@@ -98,9 +98,9 @@
             title="@string/wallpaper_with_tomori_dark" />
 
         <static-wallpaper
-            id="with_ran_dark"
-            src="@drawable/with_ran_dark"
-            title="@string/wallpaper_with_ran_dark" />
+            id="with_yukina_dark"
+            src="@drawable/with_yukina_dark"
+            title="@string/wallpaper_with_yukina_dark" />
 
         <static-wallpaper
             id="with_all_dark"
